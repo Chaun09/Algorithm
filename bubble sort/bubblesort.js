@@ -4,8 +4,10 @@ function bubbleSort(arr) {
 
    do {
        swapped = false;
-       for (let i = 1; i < n; i++) {
-           if (arr[i - 1] > arr[i]) {
+       for (let i = 1; i < n; i++) 
+       {
+           if (arr[i - 1] > arr[i]) 
+           {
                let temp = arr[i - 1];
                arr[i - 1] = arr[i];
                arr[i] = temp;
@@ -43,8 +45,10 @@ function validate(arr){
 
 }
 
+
 // Ví dụ sử dụng
-let array = [8.5 , 8, 1, 2, 3];
+let array = [ 8, 1, 2, 3];
+
 console.log("Current pass:" + (array.length - 1));
 console.log("Mảng ban đầu: " + array);
 console.log("Mảng sau khi sắp xếp: " + bubbleSort(array));
