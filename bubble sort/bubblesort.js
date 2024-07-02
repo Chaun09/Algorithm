@@ -44,7 +44,7 @@ function validate(arr){
 }
 
 // Ví dụ sử dụng
-let array = [9, 8, 1, 2, 3];
+let array = [8.5 , 8, 1, 2, 3];
 console.log("Current pass:" + (array.length - 1));
 console.log("Mảng ban đầu: " + array);
 console.log("Mảng sau khi sắp xếp: " + bubbleSort(array));
