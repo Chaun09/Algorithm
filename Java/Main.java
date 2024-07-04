@@ -1,4 +1,4 @@
-package javaeledevo;
+package Java;
 // folder chứa các class
 // import java.util.Arrays;//thêm thư viện 
 // import java.util.Iterator;
@@ -32,7 +32,7 @@ public class Main {
 		// }
 		
 		 ConNguoi conNguoi = new ConNguoi(1.5, "Thang", 120);
-		 System.out.println(conNguoi);
+		 System.out.println(conNguoi.export());
 		// String name = "Nguyễn Minh Châu";
 		// System.out.println(name);
 	}
