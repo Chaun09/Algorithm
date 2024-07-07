@@ -1,9 +1,200 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T14:28:37.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="-kwCm7M5851jzBQjXEb9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T15:18:53.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S1bBLrKojuCFtJwGL4Xp" version="24.6.4" type="github">
   <diagram name="Page-1" id="E3NeOsFrIKqstu9G8TCo">
-    <mxGraphModel>
+    <mxGraphModel dx="2990" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Lzmn2VcSh288glqo8XL0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-1" target="Lzmn2VcSh288glqo8XL0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-1" value="&lt;span id=&quot;docs-internal-guid-9be88814-7fff-32cf-9d48-a44bd962f5cf&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Chuẩn bị giấy, bút để ghi các thông số&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-2" target="Lzmn2VcSh288glqo8XL0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-2" value="&lt;span style=&quot;white-space-collapse: preserve;&quot; id=&quot;docs-internal-guid-a28bb4ec-7fff-c47e-491c-cd65ba87b056&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times, serif&quot;&gt;Bắt đầu&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-4" target="Lzmn2VcSh288glqo8XL0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-4" value="&lt;span id=&quot;docs-internal-guid-e4356974-7fff-dcee-2353-31a36a993e7d&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ghi dãy đã được sắp xếp theo thứ tự từ bé đến lớn và số cần tìm đã cho ra giấy&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="270" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-6" target="Lzmn2VcSh288glqo8XL0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-6" value="&lt;span style=&quot;white-space-collapse: preserve;&quot; id=&quot;docs-internal-guid-8c57e3d2-7fff-23d0-8f1e-a8a9855727e7&quot;&gt;&lt;span style=&quot;&quot; id=&quot;docs-internal-guid-8c57e3d2-7fff-23d0-8f1e-a8a9855727e7&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot; id=&quot;docs-internal-guid-83ba2dc6-7fff-c76e-ef12-9ee4e818d1b1&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;&quot;&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-family: Times, serif; color: rgb(67, 67, 67); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: nowrap;&quot; dir=&quot;ltr&quot;&gt;&lt;h3 role=&quot;presentation&quot; style=&quot;line-height: 1.38; margin-top: 14pt; margin-bottom: 4pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Đếm các phần tử trong dãy và ghi lại tổng số lượng phần tử, đồng thời đánh thứ tự cho các phần tử đó lần lượt từ trái qua phải là 0, 1, 2, …&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="215" y="370" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-8" target="Lzmn2VcSh288glqo8XL0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-8" value="&lt;span id=&quot;docs-internal-guid-58fdab91-7fff-e635-d6ba-d8c83bd9a688&quot;&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-family: Times, serif; color: rgb(67, 67, 67); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;&quot; dir=&quot;ltr&quot;&gt;&lt;h3 role=&quot;presentation&quot; style=&quot;line-height: 1.38; margin-top: 14pt; margin-bottom: 4pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Kiểm tra dãy có rỗng hay không?&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-12" value="&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve;&quot; id=&quot;docs-internal-guid-e8b3ae18-7fff-b737-2226-7dd2bd62469a&quot;&gt;&lt;div&gt;&lt;font face=&quot;Times, serif&quot;&gt;Tổng số lượng phần tử = 0&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-12" target="Lzmn2VcSh288glqo8XL0-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="640" as="sourcePoint" />
+            <mxPoint x="580" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-49" value="Đúng" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Lzmn2VcSh288glqo8XL0-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-12" target="Lzmn2VcSh288glqo8XL0-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="680" as="sourcePoint" />
+            <mxPoint x="430" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-51" value="Sai" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Lzmn2VcSh288glqo8XL0-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-52" value="&lt;span id=&quot;docs-internal-guid-5d6c25a1-7fff-d83a-17f7-75ee6213e9e5&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Kết quả: &quot; trạng thái: false, nội dung: null, thông báo: “Dãy đã cho không có phần tử”&quot;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="615" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-57" value="&lt;span style=&quot;font-size: 13px;&quot; id=&quot;docs-internal-guid-674043d9-7fff-8ea5-724d-61ef8325022a&quot;&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;text-align: left; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;&quot;&gt;Xét vị trí của phần tử đầu tiên trong dãy = 0 và vị trí của phần tử cuối cùng trong dãy = tổng số lượng phần tử trong dãy - 1 và vị trí của phần tử ở giữa dãy = ( vị trí của phần tử đầu tiên trong dãy + vị trí của phần tử cuối cùng trong dãy ) /2&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times, serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span id=&quot;docs-internal-guid-d4206641-7fff-fac2-e388-9d2d81ae4d97&quot;&gt;&lt;p style=&quot;text-align: left; line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Quy Ước: Tổng số lượng phần tử = n&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Vị trí của phần tử đầu tiên trong dãy = left&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Vị trí của phần tử cuối cùng trong dãy = right&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Vị trí của phần tử ở giữa dãy = mid&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="750" width="360" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-57" target="Lzmn2VcSh288glqo8XL0-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="980" as="sourcePoint" />
+            <mxPoint x="430" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-62" target="Lzmn2VcSh288glqo8XL0-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430.29999999999995" y="1069" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-62" value="&lt;span id=&quot;docs-internal-guid-cbab6bd1-7fff-789a-d0b5-ed1e02907a6f&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Kiểm tra giá trị mid có giống với giá trị cần tìm hay không&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343.75" y="1010" width="172.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-65" value="&lt;span id=&quot;docs-internal-guid-0f8acf26-7fff-881e-eae6-f2e06295c36f&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;mid = X&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-65" target="Lzmn2VcSh288glqo8XL0-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1060" as="sourcePoint" />
+            <mxPoint x="660" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-67" value="Đúng" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Lzmn2VcSh288glqo8XL0-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-65" target="Lzmn2VcSh288glqo8XL0-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="1190" as="sourcePoint" />
+            <mxPoint x="430" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-71" value="Sai" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Lzmn2VcSh288glqo8XL0-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-72" value="&lt;span style=&quot;font-size: 15px;&quot; id=&quot;docs-internal-guid-b7207387-7fff-aafb-4c4d-fdbaa6d6b9b7&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;kết quả:&quot; trạng thái: true, nội dung:&lt;/span&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt; Vị trí của phần tử cần tìm &lt;/span&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;, thông báo:”Đã tìm được vị trí số cần tìm”&quot;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1145" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-73" value="&lt;span id=&quot;docs-internal-guid-2702b3c0-7fff-aac5-d0ce-080378508a67&quot;&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Kiểm tra vị trí mid có bé hơn số X hay không ?&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1320" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-73" target="Lzmn2VcSh288glqo8XL0-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1370" as="sourcePoint" />
+            <mxPoint x="430" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-75" value="&lt;span id=&quot;docs-internal-guid-11e4f7a4-7fff-6885-d6ff-bfe70d031cc1&quot;&gt;&lt;span style=&quot;font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Mid &amp;lt; X&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-75" target="Lzmn2VcSh288glqo8XL0-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1500" as="sourcePoint" />
+            <mxPoint x="210" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-77" value="Đúng" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Lzmn2VcSh288glqo8XL0-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-75" target="Lzmn2VcSh288glqo8XL0-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1440" as="sourcePoint" />
+            <mxPoint x="430" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-79" value="Sai" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Lzmn2VcSh288glqo8XL0-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-80" value="&lt;span id=&quot;docs-internal-guid-7958f6a3-7fff-286b-c63c-6016da969ee6&quot;&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li aria-level=&quot;2&quot; style=&quot;list-style-type: circle; font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre; margin-left: 36pt;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;left = mid + 1 với right giữ nguyên &lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1470" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-81" value="&lt;span id=&quot;docs-internal-guid-1642e7c2-7fff-0c39-a332-25b425227a1d&quot;&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li aria-level=&quot;2&quot; style=&quot;list-style-type: circle; font-family: Times, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre; margin-left: 36pt;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;right = mid - 1 với left giữ nguyên &lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="1670" width="275" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-82" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1480" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-80" target="Lzmn2VcSh288glqo8XL0-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1620" as="sourcePoint" />
+            <mxPoint x="130" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-81" target="Lzmn2VcSh288glqo8XL0-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317.5" y="1705" as="sourcePoint" />
+            <mxPoint x="-70" y="1530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-95" y="1695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-82" target="Lzmn2VcSh288glqo8XL0-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1540" as="sourcePoint" />
+            <mxPoint x="-90" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-90" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-52" target="Lzmn2VcSh288glqo8XL0-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="850" as="sourcePoint" />
+            <mxPoint x="1120" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1115" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-72" target="Lzmn2VcSh288glqo8XL0-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="950" as="sourcePoint" />
+            <mxPoint x="1180" y="1180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1115" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-88" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="860" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lzmn2VcSh288glqo8XL0-88" target="Lzmn2VcSh288glqo8XL0-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="1050" as="sourcePoint" />
+            <mxPoint x="1270" y="885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lzmn2VcSh288glqo8XL0-90" value="Kết Thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="847.5" width="90" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
