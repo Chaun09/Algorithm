@@ -16,12 +16,12 @@ public class Main {
 		int x = 5;
 		int n = arr.length;
 		if (n == 0) {
-			Ketqua kq = new Ketqua(false, "Dãy rỗng", 0);
+			Ketqua kq = new Ketqua(false, "Dãy rỗng");
 			System.out.println(kq.Export());
 		} else {
 			for (int i = 0; i < n; i++) {
 				if (x == arr[i]) {
-					Ketqua kq = new Ketqua(true, "Vị trí của số trong dãy cần tìm là:", i);
+					Ketqua kq = new Ketqua(true, "Vị trí của số trong dãy cần tìm là:");
 					System.out.println(kq.Export());
 
 				}
@@ -29,7 +29,7 @@ public class Main {
 			}
 
 		}
-		Ketqua kq = new Ketqua(true, "Ko có số nào được tìm thấy", 0);
+		Ketqua kq = new Ketqua(true, "Ko có số nào được tìm thấy");
 		System.out.println(kq.Export());
 
 	}
