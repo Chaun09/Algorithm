@@ -1,6 +1,4 @@
-package BinarySearch;
-
-public class BinarySearch {
+public class test {
     public static boolean main() {
         int a[] = { 1, 2, 3, };
         int n = a.length;
