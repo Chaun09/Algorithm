@@ -1,14 +1,15 @@
 public class test {
-    public static boolean main() {
-        int a[] = { 1, 2, 3, };
+    public static int gg() {
+        int a[] = { 0, 1 };
         int n = a.length;
-        int x = 3;
+        int x = -1;
         int left = 0;
         int right = n - 1;
+
         while (left <= right) {
-            int mid = (left + right) / 2;
+            int mid = (right + left) / 2;
             if (a[mid] == x) {
-                return true;
+                return mid;
 
             } else if (a[mid] < x) {
                 left = mid + 1;
@@ -19,7 +20,12 @@ public class test {
 
         }
 
-        return false;
+        return 0;
 
     }
+
+    public static void main(String[] args) {
+        System.out.println(gg());
+    }
+
 }

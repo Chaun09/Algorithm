@@ -6,15 +6,15 @@ function bubbleSort(arr) {
   if (n == 0) {
     return t;
   } else {
-    for (let i = 0; i < n; i++) {
-      if (n == 1) {
-        return arr;
-      }
-      if (Number.isInteger(arr[i]));
-      {
-        return rep;
-      }
-    }
+    // for (let i = 0; i < n; i++) {
+    //   if (n == 1) {
+    //     return arr;
+    //   }
+    //   if (!Number.isInteger(arr[i]));
+    //   {
+    //     return rep;
+    //   }
+    // }
     do {
       swapped = false;
       for (let i = 1; i < n; i++) {
@@ -58,6 +58,6 @@ function bubbleSort(arr) {
 // }
 
 // Ví dụ sử dụng
-let array = [8.5, 5];
+let array = [8, 5, 9, 1];
 
 console.log(bubbleSort(array));
