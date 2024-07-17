@@ -1,31 +1,30 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class test {
-    public static int gg() {
-        int a[] = { 0, 1 };
-        int n = a.length;
-        int x = -1;
-        int left = 0;
-        int right = n - 1;
+    public static String array() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Nhap tong so phan tu cua mang");
+        int n = scanner.nextInt();
+        int[] a = new int[n];
 
-        while (left <= right) {
-            int mid = (right + left) / 2;
-            if (a[mid] == x) {
-                return mid;
+        for (int i = 0; i < n; i++) {
+            System.out.print("Nhap tung phan tu");
+            a[i] = scanner.nextInt();
 
-            } else if (a[mid] < x) {
-                left = mid + 1;
-
-            } else {
-                right = mid - 1;
-            }
+        }
+        for (int i = 0; i < n; i++) {
+            System.out.println("Mang sau khi da nhap" + a[i] * a[i]);
 
         }
 
-        return 0;
+        return Arrays.toString(a);
 
     }
 
     public static void main(String[] args) {
-        System.out.println(gg());
+        System.out.println(array());
+
     }
 
 }
