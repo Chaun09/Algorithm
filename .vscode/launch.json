@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HeartPattern",
+      "request": "launch",
+      "mainClass": "HeartPattern",
+      "projectName": "javaeledevo_f978781d"
+    },
+    {
+      "type": "java",
+      "name": "CuaHangXangGanNhat",
+      "request": "launch",
+      "mainClass": "test.CuaHangXangGanNhat",
+      "projectName": "javaeledevo_f978781d"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Java.Factorial",
+      "projectName": "javaeledevo_f978781d"
+    },
+    {
+      "type": "java",
+      "name": "sd",
+      "request": "launch",
+      "mainClass": "Java.sd",
+      "projectName": "javaeledevo_f978781d"
+    },
+    {
+      "type": "java",
+      "name": "Matrix",
+      "request": "launch",
+      "mainClass": "Java.Matrix",
+      "projectName": "javaeledevo_f978781d"
+    },
+    {
+      "type": "java",
       "name": "Bubblesort",
       "request": "launch",
       "mainClass": "BubbleSort.Bubblesort",

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sudoku Game</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        td {
+            width: 30px;
+            height: 30px;
+            border: 1px solid #000;
+            text-align: center;
+            vertical-align: middle;
+        }
+        input {
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <table id="sudoku">
+        <tbody>
+            <script>
+                function createSudokuGrid() {
+                    const table = document.getElementById("sudoku");
+                    for (let row = 0; row < 9; row++) {
+                        const tr = document.createElement("tr");
+                        for (let col = 0; col < 9; col++) {
+                            const td = document.createElement("td");
+                            const input = document.createElement("input");
+                            input.type = "text";
+                            input.maxLength = "1";
+                            input.oninput = () => checkValidity();
+                            td.appendChild(input);
+                            tr.appendChild(td);
+                        }
+                        table.appendChild(tr);
+                    }
+                }
+
+                function checkValidity() {
+                    const rows = document.querySelectorAll("#sudoku tr");
+                    let valid = true;
+
+                    for (let i = 0; i < 9; i++) {
+                        const row = new Set();
+                        const col = new Set();
+                        const box = new Set();
+
+                        for (let j = 0; j < 9; j++) {
+                            const rowVal = rows[i].children[j].querySelector("input").value;
+                            const colVal = rows[j].children[i].querySelector("input").value;
+                            const boxVal = rows[Math.floor(i / 3) * 3 + Math.floor(j / 3)].children[(i % 3) * 3 + j % 3].querySelector("input").value;
+
+                            if (rowVal) {
+                                if (row.has(rowVal)) valid = false;
+                                row.add(rowVal);
+                            }
+
+                            if (colVal) {
+                                if (col.has(colVal)) valid = false;
+                                col.add(colVal);
+                            }
+
+                            if (boxVal) {
+                                if (box.has(boxVal)) valid = false;
+                                box.add(boxVal);
+                            }
+                        }
+                    }
+
+                    if (valid) {
+                        console.log("Sudoku grid is valid");
+                    } else {
+                        console.log("Sudoku grid is invalid");
+                    }
+                }
+
+                createSudokuGrid();
+            </script>
+        </tbody>
+    </table>
+</body>
+</html>
+
