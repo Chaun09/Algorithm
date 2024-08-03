@@ -64,16 +64,16 @@
 #     print(row)
 
 # Nhập chiều cao của tam giác
-height = int(input("Nhập chiều cao của tam giác: "))
+# height = int(input("Nhập chiều cao của tam giác: "))
 
-# In tam giác đều
-for i in range(1, height + 1):
-    if(i == 1):
-        print('*' * (2 * i - 1))
-    elif(i == 2):
-        print('*' * (2 * i - 2))
-    elif(i == 3):
-        print('*' * (2 * i - 3))
+# # In tam giác đều
+# for i in range(1, height + 1):
+#     if(i == 1):
+#         print('*' * (2 * i - 1))
+#     elif(i == 2):
+#         print('*' * (2 * i - 2))
+#     elif(i == 3):
+#         print('*' * (2 * i - 3))
     
 
     
@@ -96,10 +96,39 @@ for i in range(1, height + 1):
 
 # for i in a:
 #     print(i, end=" ")
-
-
-
-
-  
-      
+def fill_base(base, second_level):
+    # Điền giá trị vào mảng base dựa trên tầng trên biết trước
+    n = len(base)
     
+    # Nếu phần tử đầu tiên đã biết
+    if base[0] is not None:
+        for i in range(n - 1):
+            if second_level[i] is not None and base[i + 1] is None:
+                base[i + 1] = second_level[i] - base[i]
+    
+    # Nếu phần tử cuối cùng đã biết
+    if base[-1] is not None:
+        for i in range(n - 1, 0, -1):
+            if second_level[i - 1] is not None and base[i - 1] is None:
+                base[i - 1] = second_level[i - 1] - base[i]
+                
+    # Điền giá trị từ trái sang phải
+    for i in range(n - 1):
+        if second_level[i] is not None and base[i] is None and base[i + 1] is not None:
+            base[i] = second_level[i] - base[i + 1]
+        elif second_level[i] is not None and base[i] is not None and base[i + 1] is None:
+            base[i + 1] = second_level[i] - base[i]
+    
+    return base
+
+# Tầng dưới cùng có 7 phần tử với một số đã biết
+base = [8, None, None, None, None, None, None]
+
+# Tầng tiếp theo có 5 phần tử với các số đã biết
+second_level = [19, None, 19, None, 20]
+
+# Điền các số vào các ô trống ở tầng dưới cùng
+filled_base = fill_base(base, second_level)
+
+# In ra tầng dưới cùng sau khi đã điền các số vào các ô trống
+print(filled_base)

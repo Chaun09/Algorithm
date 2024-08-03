@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class HeartPattern {
     public static void main(String[] args) {
-        int n = 9; // Chiều cao của trái tim
+        int n = 4; // Chiều cao của trái tim
 
         // Vẽ phần trên của trái tim
         for (int i = 2; i <= n; i += 2) {

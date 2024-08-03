@@ -28,7 +28,7 @@ public class CuaHangXangGanNhat {
         danhSachCuaHangXang.add(new CuaHangXang(70, "MX", List.of(92)));
 
         // for (CuaHangXang cuaHang : danhSachCuaHangXang) {
-        // System.out.println(cuaHang);
+        // System.out.print(cuaHang);
         // }
 
         CuaHangXang cuaHangGanNhat = timCuaHangGanNhat(viTriHienTai, loaiXangYeuCau, danhSachCuaHangXang);
@@ -37,6 +37,7 @@ public class CuaHangXangGanNhat {
         } else {
             System.out.println("Không tìm thấy cửa hàng xăng nào có loại xăng yêu cầu.");
         }
+
     }
 
     public static CuaHangXang timCuaHangGanNhat(int viTriHienTai, int loaiXangYeuCau,
