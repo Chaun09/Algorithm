@@ -15,11 +15,12 @@ public class CuaHangXang {
     }
 
     @Override
+
     public String toString() {
         return "CuaHangXang{" +
-                "viTri=" + viTri +
-                ", ten='" + ten + '\'' +
-                ", loaiXang=" + danhsach +
+                "location=" + viTri +
+                ", name='" + ten + '\'' +
+                ", type=" + danhsach +
                 '}';
     }
 

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CuaHangXangGanNhat2",
+      "request": "launch",
+      "mainClass": "test.CuaHangXangGanNhat2",
+      "projectName": "javaeledevo_f978781d"
+    },
+    {
+      "type": "java",
       "name": "HeartPattern",
       "request": "launch",
       "mainClass": "HeartPattern",

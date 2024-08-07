@@ -5,13 +5,9 @@ import java.util.List;
 import java.util.Scanner;
 // import java.util.Arrays;
 
-public class CuaHangXangGanNhat {
+public class CuaHangXangGanNhat2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("location:");
-        int viTriHienTai = sc.nextInt();
-        System.out.print("type:");
-        int loaiXangYeuCau = sc.nextInt();
 
         List<CuaHangXang> danhSachCuaHangXang = new ArrayList<>();
         danhSachCuaHangXang.add(new CuaHangXang(14, "A", List.of(95)));
@@ -30,31 +26,50 @@ public class CuaHangXangGanNhat {
         // System.out.print(cuaHang);
         // }
 
-        CuaHangXang cuaHangGanNhat = timCuaHangGanNhat(viTriHienTai, loaiXangYeuCau, danhSachCuaHangXang);
-        if (cuaHangGanNhat != null) {
-            System.out.println("[{name: " + cuaHangGanNhat.ten + ", location: " + cuaHangGanNhat.viTri + ", type:"
-                    + cuaHangGanNhat.danhsach + "}]");
+        if (danhSachCuaHangXang.size() == 0) {
+            System.out.println("Danh sach ko co cay xang nao");
+
         } else {
-            System.out.println("[]");
+            System.out.println("Type:");
+            int loaiXangYeuCau = sc.nextInt();
+            System.out.println("Location:");
+            int location = sc.nextInt();
+
+            List<CuaHangXang> cuaHangCungLoaiXang = timCuaHangCungLoaiXang(loaiXangYeuCau, danhSachCuaHangXang);
+            List<Integer> ds = khoangCach(cuaHangCungLoaiXang, location);
+
+            System.out.println(ds);
+
+            // System.out.println(cuaHangCungLoaiXang);
+
         }
 
     }
 
-    public static CuaHangXang timCuaHangGanNhat(int viTriHienTai, int loaiXangYeuCau,
+    public static List<CuaHangXang> timCuaHangCungLoaiXang(int loaiXangYeuCau,
             List<CuaHangXang> danhSachCuaHangXang) {
-        CuaHangXang cuaHangGanNhat = null;
-        int khoangCachNhoNhat = Integer.MAX_VALUE;
+        List<CuaHangXang> cuaHangGanNhat = new ArrayList<>();
 
         for (CuaHangXang cuaHang : danhSachCuaHangXang) {
             if (cuaHang.danhsach.contains(loaiXangYeuCau)) {
-                int khoangCach = Math.abs(cuaHang.viTri - viTriHienTai);
-                if (khoangCachNhoNhat > khoangCach) {
-                    khoangCachNhoNhat = khoangCach;
-                    cuaHangGanNhat = cuaHang;
-                }
+                cuaHangGanNhat.add(cuaHang);
             }
         }
 
         return cuaHangGanNhat;
     }
+
+    public static List<Integer> khoangCach(List<CuaHangXang> cuaHangCungLoaiXang, int location) {
+
+        List<Integer> Danhsachkc = new ArrayList<>();
+        for (CuaHangXang danhSachkhoangCach : cuaHangCungLoaiXang) {
+            int khoangCach = Math.abs(danhSachkhoangCach.viTri - location);
+
+            Danhsachkc.add(khoangCach);
+
+        }
+        return Danhsachkc;
+
+    }
+
 }
