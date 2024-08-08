@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CuaHangGanNhat",
+      "request": "launch",
+      "mainClass": "test1.CuaHangGanNhat",
+      "projectName": "javaeledevo_f978781d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "javaeledevo_f978781d"
+    },
+    {
+      "type": "java",
       "name": "CuaHangXangGanNhat2",
       "request": "launch",
       "mainClass": "test.CuaHangXangGanNhat2",
