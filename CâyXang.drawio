@@ -1,0 +1,320 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="aX4CD0YnM9mkY9acVC4E">
+    <mxGraphModel dx="1551" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w75pA72Hz9CgyQcH--Vn-1" target="w75pA72Hz9CgyQcH--Vn-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-1" value="Bắt đầu&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w75pA72Hz9CgyQcH--Vn-2" target="w75pA72Hz9CgyQcH--Vn-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-2" value="Chuẩn bị giấy bút để ghi các thông số gồm: địa chỉ mình đang đứng, ..." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w75pA72Hz9CgyQcH--Vn-4" target="w75pA72Hz9CgyQcH--Vn-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-4" value="Ghi lại địa chỉ mình đang đứng, loại xăng cần tìm, danh sách cây xăng&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w75pA72Hz9CgyQcH--Vn-6" target="w75pA72Hz9CgyQcH--Vn-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-6" value="Xét danh sách cây xăng, đếm và ghi lại tổng số cây xăng và đồng thời đánh vị trí các cây xăng theo chiều từ trái sang phải theo thứ tự lần lượt 1,2,3,.." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="340" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w75pA72Hz9CgyQcH--Vn-8" target="w75pA72Hz9CgyQcH--Vn-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-8" value="Kiểm tra danh sách cây xăng có rỗng hay không ?&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w75pA72Hz9CgyQcH--Vn-12" target="w75pA72Hz9CgyQcH--Vn-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-3" value="Đúng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w75pA72Hz9CgyQcH--Vn-15">
+          <mxGeometry x="-0.0714" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w75pA72Hz9CgyQcH--Vn-12" target="KW4GMvHp3O4kSPheZxXF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-4" value="Sai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-2">
+          <mxGeometry x="-0.2902" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-12" value="Tổng số cây xăng == 0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="655" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w75pA72Hz9CgyQcH--Vn-14" target="KW4GMvHp3O4kSPheZxXF-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w75pA72Hz9CgyQcH--Vn-14" value="Trả ra Trạng Thái: False, Nội Dung: [], Thông Báo: Danh sách cây xăng rỗng" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-1" target="KW4GMvHp3O4kSPheZxXF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-1" value="Bắt đầu đi xét lần lượt từng phần tử trong danh sách cây xăng , vị trí xét = 0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-5" target="KW4GMvHp3O4kSPheZxXF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-5" value="Kiểm tra cây xăng tại vị trí đang xét có loại xăng mà mình cần tìm hay không ?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-7" target="KW4GMvHp3O4kSPheZxXF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-13" value="Đúng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-10">
+          <mxGeometry x="-0.1906" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-7" target="KW4GMvHp3O4kSPheZxXF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-14" value="Sai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-12">
+          <mxGeometry x="-0.0452" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-7" value="loại xăng = loại xăng có trong có xăng" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1090" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-9" target="KW4GMvHp3O4kSPheZxXF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-9" value="Thêm cây xăng vào trong danh sách rỗng&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-11" target="KW4GMvHp3O4kSPheZxXF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-11" value="Ko thêm vào ds rỗng&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-15" target="KW4GMvHp3O4kSPheZxXF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-18" target="KW4GMvHp3O4kSPheZxXF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-18" value="Kiểm tra cây xăng tại vị trí đang xét có phải vị trí cuối cùng hay không ?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-20" target="KW4GMvHp3O4kSPheZxXF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-27" value="Đúng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-23">
+          <mxGeometry x="-0.2732" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-20" target="KW4GMvHp3O4kSPheZxXF-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-30" value="Sai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-29">
+          <mxGeometry x="-0.0784" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-20" value="Vị trí đang xét = tổng số lượng phần tử - 1&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1550" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-22" target="KW4GMvHp3O4kSPheZxXF-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-22" value="Kiểm tra cây xăng tại vị trí cuối cùng đó có loại xăng mà mình cần tìm hay không ?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-28" target="KW4GMvHp3O4kSPheZxXF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90.05999999999977" y="1590" as="sourcePoint" />
+            <mxPoint x="90.05999999999977" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="1590" />
+              <mxPoint x="-10" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-28" value="Vị trí đang xét + 1&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-33" target="KW4GMvHp3O4kSPheZxXF-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-41" value="Đúng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-36">
+          <mxGeometry x="-0.1739" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-33" target="KW4GMvHp3O4kSPheZxXF-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-40" value="Sai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-38">
+          <mxGeometry x="-0.1303" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-33" value="loại xăng = loại xăng có trong có xăng" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1850" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-35" target="KW4GMvHp3O4kSPheZxXF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-35" value="Thêm cây xăng vào trong danh sách&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-37" target="KW4GMvHp3O4kSPheZxXF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-37" value="Ko thêm cây xăng vào trong danh sách&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-42" target="KW4GMvHp3O4kSPheZxXF-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2055" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-45" target="KW4GMvHp3O4kSPheZxXF-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-45" value="Xét danh sách cây xăng cùng loại xăng&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-47" target="KW4GMvHp3O4kSPheZxXF-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-47" value="Đếm và ghi lại tổng số lượng phần tử trong danh sách cây xăng cùng loại ra giấy và đồng thời đánh số thứ tự lần lượt 0,1, 2, 3, 4, ..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2330" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-49" target="KW4GMvHp3O4kSPheZxXF-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-49" value="Kiểm tra danh sách cây xăng cùng loại có rỗng hay không ?&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-51" target="KW4GMvHp3O4kSPheZxXF-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-60" value="Đúng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-59">
+          <mxGeometry x="-0.1555" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-51" target="KW4GMvHp3O4kSPheZxXF-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-63" value="Sai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-62">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-51" value="Tổng cây xăng cùng loại = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2645" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-58" target="KW4GMvHp3O4kSPheZxXF-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-58" value="Trả ra Trạng Thái: False, Nội Dung: [], Thông Báo: Ko có cây xăng nào trong phạm vi đang đứng" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2647.5" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-61" target="KW4GMvHp3O4kSPheZxXF-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-61" value="Ktra ds cây xăng cùng loại có duy nhất 1 phần tử hay ko ?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-64" target="KW4GMvHp3O4kSPheZxXF-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-68" value="Đúng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-67">
+          <mxGeometry x="-0.1387" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-64" target="KW4GMvHp3O4kSPheZxXF-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-71" value="Sai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KW4GMvHp3O4kSPheZxXF-70">
+          <mxGeometry x="-0.3399" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-64" value="Tổng cây xăng cùng loại = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2945" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-66" target="KW4GMvHp3O4kSPheZxXF-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-66" value="Trả ra Trạng Thái: True, Nội Dung: Cây xăng duy nhất trong ds, Thông Báo: Đã tìm thấy cây xăng gần vị trí đang đứng" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2947.5" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-69" target="KW4GMvHp3O4kSPheZxXF-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-69" value="Tính khoảng cách giữa vị trí đang đứng và địa chỉ của cây xăng" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="3110" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-72" target="KW4GMvHp3O4kSPheZxXF-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-72" value="Thêm các khoảng cách vào ds khoảng cách&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3272.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-74" target="KW4GMvHp3O4kSPheZxXF-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-74" value="Sắp xếp ds khoảng cách theo thứ tự từ bé đến lớn , trái -&amp;gt; phải" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3412.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-76" target="KW4GMvHp3O4kSPheZxXF-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-76" value="Chọn ra số bé nhất và bé thứ hai trong ds khoảng cách&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3552.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-78" target="KW4GMvHp3O4kSPheZxXF-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-78" value="Loại bỏ đi các cây xăng có kq khoảng cách khác với hai số được chọn&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-80" target="KW4GMvHp3O4kSPheZxXF-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-80" value="Trả ra ds cây xăng&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-82" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2799" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-84" target="KW4GMvHp3O4kSPheZxXF-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-84" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="2799" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW4GMvHp3O4kSPheZxXF-89" target="KW4GMvHp3O4kSPheZxXF-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW4GMvHp3O4kSPheZxXF-89" value="Trả ra Trạng Thái: True, Nội Dung: Ds cây xăng thỏa mãn, Thông Báo: Đã tìm thấy cây xăng gần vị trí đang đứng" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3835" width="170" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
